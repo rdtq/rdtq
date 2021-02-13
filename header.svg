@@ -55,6 +55,7 @@
 					height: 400px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
+					background-color: black;
 				        background: -moz-element(#blob_contributors_box);
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
